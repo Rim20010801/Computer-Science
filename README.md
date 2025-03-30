@@ -1,6 +1,6 @@
 # CS50プログラミング学習コース (Computer-Science)
 
-![CS50](https://cs50.harvard.edu/college/2022/spring/assets/install.jpeg)
+![CS50](https://cs50.harvard.edu/x/2023/assets/install.jpeg)
 
 このリポジトリは、CS50基礎からスタートする初学者向けプログラミング学習コースの教材とリソースを管理するためのものです。プログラミング総合学習スペースとして機能します。
 
